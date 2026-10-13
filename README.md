@@ -4,8 +4,12 @@
 
 Microsoft Office · MoggyDay · 2024 · vLTSC 2024
 
-# Microsoft Office 2024 “Pro for Windows: Word, Excel, PowerPoint, Outlook” [vLTSC 2024]
+# Microsoft Office 2024 “for Windows: Word, Excel, PowerPoint, Outlook” [vLTSC 2024]
 
+<p>
+  <a href="https://moggydayprogram.com/programs/microsoft-office"><img src="docs/media/shot-1.jpg" alt="home" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/microsoft-office"><img src="docs/media/shot-2.jpg" alt="word" width="280"></a>
+</p>
 <p><img src="docs/media/logos/microsoft-office.svg" alt="Microsoft Office" height="48"></p>
 
 MoggyDay keeps one stable URL for Microsoft Office: EN / RU. Word, Excel, PowerPoint, Outlook. Russian pack, 4.2 GB, Windows x64.
