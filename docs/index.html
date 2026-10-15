@@ -146,6 +146,11 @@
     [data-i18n] { display: none; }
     html[data-lang="ru"] [data-i18n="ru"],
     html[data-lang="en"] [data-i18n="en"] { display: block; }
+    .hero-preview { margin: 0 0 22px; }
+    .hero-preview img {
+      width: 100%; max-height: 380px; object-fit: cover; object-position: left center;
+      border-radius: 16px; border: 1px solid var(--line); display: block;
+    }
     .strip {
       display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px;
       margin: 8px 0 28px;
@@ -194,6 +199,7 @@
         </div>
       </div>
     </header>
+    <p class="hero-preview"><img src="media/preview.jpg" alt="preview"></p>
     <div class="strip">
       <a href="https://moggydayprogram.com/en/programs/microsoft-office"><img src="media/shot-1.jpg" alt="home"><span>home</span></a>
       <a href="https://moggydayprogram.com/en/programs/microsoft-office"><img src="media/shot-2.jpg" alt="word"><span>word</span></a>
@@ -258,6 +264,7 @@
         </div>
       </div>
     </header>
+    <p class="hero-preview"><img src="media/preview.jpg" alt="preview"></p>
     <div class="strip">
       <a href="https://moggydayprogram.com/programs/microsoft-office"><img src="media/shot-1.jpg" alt="главная"><span>главная</span></a>
       <a href="https://moggydayprogram.com/programs/microsoft-office"><img src="media/shot-2.jpg" alt="word"><span>word</span></a>
