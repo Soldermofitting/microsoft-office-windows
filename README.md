@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://soldermofitting.github.io/microsoft-office-windows/) picks English or Russian from the browser. Switch: [English](https://soldermofitting.github.io/microsoft-office-windows/?lang=en) · [Русский](https://soldermofitting.github.io/microsoft-office-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/microsoft-office"><img src="docs/media/preview.jpg" alt="Microsoft Office preview" width="640"></a>
+</p>
+
 Microsoft Office · MoggyDay · 2024 · vLTSC 2024
 
 # Microsoft Office 2024 “for Windows: Word, Excel, PowerPoint, Outlook” [vLTSC 2024]
