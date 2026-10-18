@@ -22,7 +22,7 @@ MoggyDay keeps one stable URL for Microsoft Office: EN / RU. Word, Excel, PowerP
 
 1. Open [Microsoft Office EN](https://moggydayprogram.com/en/programs/microsoft-office) or [Microsoft Office RU](https://moggydayprogram.com/programs/microsoft-office).
 2. Stay on moggydayprogram.com.
-3. Use the primary button on that card. Prefer [MoggyDay Launcher](https://moggydayprogram.com/launcher) if the archive is large.
+3. Open the catalog card and download there. No package is attached here.
 4. After a catalog update, reload the same program URL.
 
 ## Official links
